@@ -115,6 +115,9 @@ PHP のコーディングは、原則以下の記事を参考にしてくださ�
 
 → [PSR-2 コーディングガイド（日本語）](https://www.infiniteloop.co.jp/docs/psr/psr-2-coding-style-guide.php)
 
+英語の命名については以下の記事を参考にしてください。
+[初心者プログラマーのための英語命名法](https://qiita.com/YutaManaka/items/62dda256bb7ba6c08399)
+
 ---
 
 ## GitHub
